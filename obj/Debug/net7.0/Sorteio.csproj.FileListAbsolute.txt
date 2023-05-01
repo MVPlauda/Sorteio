@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\Sorteio\bin\Debug\net7.0\Sorteio.exe
+C:\Users\plaud\Desktop\Sorteio\bin\Debug\net7.0\Sorteio.deps.json
+C:\Users\plaud\Desktop\Sorteio\bin\Debug\net7.0\Sorteio.runtimeconfig.json
+C:\Users\plaud\Desktop\Sorteio\bin\Debug\net7.0\Sorteio.dll
+C:\Users\plaud\Desktop\Sorteio\bin\Debug\net7.0\Sorteio.pdb
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.AssemblyInfo.cs
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.dll
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\refint\Sorteio.dll
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.pdb
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\Sorteio.genruntimeconfig.cache
+C:\Users\plaud\Desktop\Sorteio\obj\Debug\net7.0\ref\Sorteio.dll
